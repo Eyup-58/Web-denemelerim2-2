@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="helloword.css">
+</head>
+<body>
+    <div class="header">
+        <nav>
+            <a href="" class="logo">Eyüp</a>
+            <div class="nav-link">
+                <ul>
+                    <li><a href="">Home</a></li>
+                    <li><a href="">Options</a></li>
+                    <li><a href="">Job offers</a></li>
+                    <li><a href="">About</a></li>
+                    <li><a href="">Connect us</a></li>
+                </ul>
+            </div>
+        </nav>
+
+        <div class="sol-taraf"></div>
+        <div class="row">
+        <div class="sol-kol">
+            <img src="/images/imagecode.png">
+        </div>
+        <div class="sag-kol">
+            <h1> Ben EYÜP Yıldız Yeni Mekatronik mezunuyum</h1>
+            <p>Yeni mezun olmakla birlikte 8 aydan beri yoğun bir şekilde HTML CSS çalışmaktayım ve kod yazmaktan zevk almaktayım. <br> Tek eksikliğimin tecrübe olduğunu düşünüyorum ve bu eksikliği sizinle çalışarak kapatabilceğimi düşünüyorum. </p>
+            </div>
+            <div class="socialmedia">
+                <div class="icon">
+                    <img src="/images/facebook.png">
+                    <a href="https://facebook.com" target="_blank">
+                        <img src="/images/link.png">
+                    </a>
+                </div>
+                <div class="icon">
+                    <img src="/images/twitter.png" >
+                    <a href="https://twitter.com" target="_blank">
+                        <img src="/images/link.png">
+                    </a>
+                </div>
+                <div class="icon">
+                    <img src="/images/youtube.png">
+                    <a href="https://youtube.com" target="_blank">
+                        <img src="/images/link.png">
+                    </a>
+                </div>
+                <div class="icon">
+                    <img src="/images/instagram.png">
+                    <a href="https://instagram.com" target="_blank">
+                        <img src="/images/link.png">
+                    </a>
+                </div>
+            
+            </div>
+         </div>        
+
+    </div>
+
+
+
+</body>
+</html>
